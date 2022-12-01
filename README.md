@@ -1,4 +1,4 @@
-# Popular-IITG
+# Online-Food-Poll
 Polls 
 
 Developed a Polls App that ranks food eateries around the IITG campus. Users can cast their votes using a QR
